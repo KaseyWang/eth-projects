@@ -1,4 +1,4 @@
-# My Ethereum Projects
+# Ethereum Projects
 
 <h3>Why are you making ETH projects and ERC20 Tokens?</h3>
   <ul>
