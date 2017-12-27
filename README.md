@@ -5,7 +5,7 @@
     <li>It's fun and I like to learn
     <li>It's expressive artistically
     <li>To perhaps solve some problems
-    <li>To become more organized
+    <li>To become more organized and transparent
     <li>To show the blockchain's potentials beyond (or in addition to) money-grabs
     <li>To incidentally represent women/LGBT 'non-programmers' on the blockchain
 </ul>
