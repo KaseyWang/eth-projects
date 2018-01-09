@@ -2,12 +2,11 @@
 
 <h3>Why are you making ETH projects and ERC20 Tokens?</h3>
   <ul>
-    <li>It's fun and I like to learn
-    <li>It's expressive artistically
-    <li>To perhaps solve some problems
-    <li>To become more organized and transparent
-    <li>To show the blockchain's potentials beyond (or in addition to) money-grabs
-    <li>To incidentally represent women/LGBT 'non-programmers' on the blockchain
+    <li>It's fun and I want to code again.
+    <li>It's expressive artistically.
+    <li>To perhaps solve some problems.
+    <li>To become more organized and transparent.
+    <li>To show the blockchain's potentials beyond (or in addition to) money-grabs.
 </ul>
 
 <h3>What are your ideas so far?</h3>
