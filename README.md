@@ -11,7 +11,7 @@
 
 <h3>What are your ideas so far?</h3>
 
-<i>Here's a freelisting exercise of projects. Please be aware: I have not yet looked into if the Ticker name, Emoji symbol, nor some details to these yet. Which idea do you want me to make? Do you want to make one? That's okay too. Please let me know here or on Twitter <a href="www.twitter.com/@kaseyjwang">@kaseyjwang</a>. Do not be shy. =^_^=</i>
+<i>Here's a freelisting exercise of projects. Please be aware: I have not yet looked into if the Ticker name, Emoji symbol, nor some details to these yet. Which idea do you want me to make? Do you want to make one? That's okay too. Please let me know here or on Twitter <a href="www.twitter.com/@bitpixi">@bitpixi</a>. Do not be shy. =^_^=</i>
 
 <h4>/J (Joke)</h4>
  <ul>
@@ -38,7 +38,7 @@
 
 <h3>How can I help to contribute?</h3>
     <ul>
-    <li>Say hi <a href="www.twitter.com/@kaseyjwang">@kaseyjwang</a>.
+    <li>Say hi <a href="www.twitter.com/@bitpixi">@bitpixi</a>.
     <li>Make pull requests or open an issue here.
     <li>Watch this repo to participate in the ICO's as an early investor.
    </ul>
